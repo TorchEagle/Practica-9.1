@@ -20,10 +20,10 @@ p {
 }
 
 input#documento {
-    width: 280px;
+    width: 240px;
 }
 
 input#fecha {
-    width: 280px;
+    width: 240px;
     height: 28px;
 }
